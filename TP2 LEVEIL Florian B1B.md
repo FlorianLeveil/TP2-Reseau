@@ -63,12 +63,12 @@ Calculez la première et la dernière IP du réseau:
 ### Création d'un réseau / modification d'adresse IP
 
 * Réseau /24:
-<img sr
+<img src="./
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODMwMzg0OCwxOTk0NjE0MTQzLC02OT
+eyJoaXN0b3J5IjpbLTEwMDEwMTcwNSwxOTk0NjE0MTQzLC02OT
 Q3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2
 NSwtMTkzNjkyMzkzOV19
 -->
