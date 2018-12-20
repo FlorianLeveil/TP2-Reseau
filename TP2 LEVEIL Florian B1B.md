@@ -66,14 +66,14 @@ Calculez la première et la dernière IP du réseau:
 <img src="./TP2%20Screen/Capture09.PNG">
 <img src="./TP2%20Screen/Capture08.PNG">
 * Réseau/20:
-<img src="./TP2%20Screen/Capture10.PNG">
-<img src="./TP2%20Screen/Capture11.PNG">
+<img src="./TP2%20Screen/capture10.PNG">
+<img src="./TP2%20Screen/capture11.PNG">
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMwMTk4MTAsMTk5NDYxNDE0MywtNj
-k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
-NjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3OD
+c3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwt
+MTkzNjkyMzkzOV19
 -->
