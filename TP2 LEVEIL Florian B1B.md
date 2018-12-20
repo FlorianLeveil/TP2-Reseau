@@ -37,6 +37,9 @@ Calcule:
 
 #### En Graphique:
 
+<img src="./TP2%20Screen/Ipconfigall%20-%2002.PNG">
+
+
 à quoi sert la gateway dans le réseau d'ingésup:
 * Elle sert à relier un réseau Local (étudiant) au réseau mondial (Internet)
 
@@ -53,6 +56,6 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNzY5MDgwLDEzMTExMDU4NjAsMTEzOT
-Q0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbMjExODEwNjEyNSwxMzExMTA1ODYwLDExMz
+k0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
