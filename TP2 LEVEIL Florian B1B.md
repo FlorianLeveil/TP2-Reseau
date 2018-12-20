@@ -165,8 +165,10 @@ Links             : {@{innerHTML=<SPAN class=gbtb2></SPAN><SPAN class=gbts>Reche
 ParsedHtml        : mshtml.HTMLDocumentClass
 RawContentLength  : 45839 
 ```
+Quand mon collègue ce connecte à internet via mon pc:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjIxMTY5NSwxMDI0NTQyLDE5OTQ2MT
-QxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUs
-MTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxND
+E0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwx
+ODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
 -->
