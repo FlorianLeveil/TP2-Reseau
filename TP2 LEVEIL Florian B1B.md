@@ -168,9 +168,9 @@ RawContentLength  : 45839
 Quand mon collègue ce connecte à internet via mon pc:
 * J'ai une version Insider de Windows je n'ai pas l'option "Ethernet"
 
-<img src="./TP2%20Screen/capture11.PNG">
+<img src="./TP2%20Screen/capture12.PNG">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDE5NjIxOCw4NzUwMjgxODQsMTAyND
-U0MiwxOTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwx
-MTM5NDQwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMj
+Q1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAs
+MTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
 -->
