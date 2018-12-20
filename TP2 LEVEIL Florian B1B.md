@@ -65,7 +65,9 @@ Calculez la première et la dernière IP du réseau:
 * Réseau /24:
 <img src="./TP2%20Screen/Capture09.PNG">
 <img src="./TP2%20Screen/Capture08.PNG">
+
 * Réseau/20:
+
 <img src="./TP2%20Screen/capture10.PNG">
 <img src="./TP2%20Screen/capture11.PNG">
 
@@ -73,7 +75,7 @@ Calculez la première et la dernière IP du réseau:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3OD
-c3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwt
-MTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTIxMzE2NjM3NTAsMTAyNDU0MiwxOTk0Nj
+E0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1
+LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
