@@ -74,7 +74,7 @@ Calculez la première et la dernière IP du réseau:
 ### Utilisation d'un des deux comme gateway
 
 * Quand mon pc utilise la gateway pour avoir accès internet:
-
+Ipconfig:
 ``` PS C:\Users\Florian> ipconfig
 
 Configuration IP de Windows
@@ -110,8 +110,62 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 
 ```
+Curl Google:
+```PS C:\Users\Florian> curl google.com
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="fr"><head><meta
+                    content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta
+                    content="/images/branding/googleg/1x/goo...
+RawContent        : HTTP/1.1 200 OK
+                    X-XSS-Protection: 1; mode=block
+                    X-Frame-Options: SAMEORIGIN
+                    Cache-Control: private, max-age=0
+                    Content-Type: text/html; charset=UTF-8
+                    Date: Thu, 20 Dec 2018 10:16:41 GMT
+                    Expires: ...
+Forms             : {f}
+Headers           : {[X-XSS-Protection, 1; mode=block], [X-Frame-Options, SAMEORIGIN], [Cache-Control, private,
+                    max-age=0], [Content-Type, text/html; charset=UTF-8]...}
+Images            : {@{innerHTML=; innerText=; outerHTML=<IMG id=hplogo onload=window.lol&amp;&amp;lol()
+                    style="PADDING-BOTTOM: 14px; PADDING-TOP: 28px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px" alt=Google
+                    src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" width=272
+                    height=92>; outerText=; tagName=IMG; id=hplogo; onload=window.lol&amp;&amp;lol();
+                    style=PADDING-BOTTOM: 14px; PADDING-TOP: 28px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; alt=Google;
+                    src=/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png; width=272;
+                    height=92}}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT type=hidden value=fr name=hl>; outerText=;
+                    tagName=INPUT; type=hidden; value=fr; name=hl}, @{innerHTML=; innerText=; outerHTML=<INPUT
+                    type=hidden value=hp name=source>; outerText=; tagName=INPUT; type=hidden; value=hp; name=source},
+                    @{innerHTML=; innerText=; outerHTML=<INPUT type=hidden name=biw>; outerText=; tagName=INPUT;
+                    type=hidden; name=biw}, @{innerHTML=; innerText=; outerHTML=<INPUT type=hidden name=bih>;
+                    outerText=; tagName=INPUT; type=hidden; name=bih}...}
+Links             : {@{innerHTML=<SPAN class=gbtb2></SPAN><SPAN class=gbts>Recherche</SPAN>; innerText=Recherche;
+                    outerHTML=<A onclick=gbar.logger.il(1,{t:1}); id=gb_1 class="gbzt gbz0l gbp1"
+                    href="https://www.google.fr/webhp?tab=ww"><SPAN class=gbtb2></SPAN><SPAN
+                    class=gbts>Recherche</SPAN></A>; outerText=Recherche; tagName=A; onclick=gbar.logger.il(1,{t:1});;
+                    id=gb_1; class=gbzt gbz0l gbp1; href=https://www.google.fr/webhp?tab=ww}, @{innerHTML=<SPAN
+                    class=gbtb2></SPAN><SPAN class=gbts>Images</SPAN>; innerText=Images; outerHTML=<A
+                    onclick=gbar.logger.il(1,{t:2}); id=gb_2 class=gbzt
+                    href="http://www.google.fr/imghp?hl=fr&amp;tab=wi"><SPAN class=gbtb2></SPAN><SPAN
+                    class=gbts>Images</SPAN></A>; outerText=Images; tagName=A; onclick=gbar.logger.il(1,{t:2});;
+                    id=gb_2; class=gbzt; href=http://www.google.fr/imghp?hl=fr&amp;tab=wi}, @{innerHTML=<SPAN
+                    class=gbtb2></SPAN><SPAN class=gbts>Maps</SPAN>; innerText=Maps; outerHTML=<A
+                    onclick=gbar.logger.il(1,{t:8}); id=gb_8 class=gbzt
+                    href="http://maps.google.fr/maps?hl=fr&amp;tab=wl"><SPAN class=gbtb2></SPAN><SPAN
+                    class=gbts>Maps</SPAN></A>; outerText=Maps; tagName=A; onclick=gbar.logger.il(1,{t:8});; id=gb_8;
+                    class=gbzt; href=http://maps.google.fr/maps?hl=fr&amp;tab=wl}, @{innerHTML=<SPAN
+                    class=gbtb2></SPAN><SPAN class=gbts>Play</SPAN>; innerText=Play; outerHTML=<A
+                    onclick=gbar.logger.il(1,{t:78}); id=gb_78 class=gbzt
+                    href="https://play.google.com/?hl=fr&amp;tab=w8"><SPAN class=gbtb2></SPAN><SPAN
+                    class=gbts>Play</SPAN></A>; outerText=Play; tagName=A; onclick=gbar.logger.il(1,{t:78});;
+                    id=gb_78; class=gbzt; href=https://play.google.com/?hl=fr&amp;tab=w8}...}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 45839 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA4NjMxODgsMTAyNDU0MiwxOTk0Nj
-E0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1
-LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTkzOTE5NDk3OSwxMDI0NTQyLDE5OTQ2MT
+QxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUs
+MTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
