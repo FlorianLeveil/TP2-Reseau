@@ -6,6 +6,8 @@
 
 #### En CMD:
 
+<img href
+
 **Nom, adresse MAC, adresse IP pour WIFI:**
 * Carte réseau sans fil Wi-Fi
 * 9C-B6-D0-09-AB-45
@@ -51,5 +53,6 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbLTE4ODAwMjQ2MjMsLTE5MzY5MjM5MzldfQ
+==
 -->
