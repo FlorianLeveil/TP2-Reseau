@@ -73,12 +73,45 @@ Calculez la première et la dernière IP du réseau:
 
 ### Utilisation d'un des deux comme gateway
 
-* Mon pc 
+* Quand mon pc utilise la gateway pour avoir accès internet:
+
+``` PS C:\Users\Florian> ipconfig
+
+Configuration IP de Windows
 
 
+Carte Ethernet Ethernet :
 
+   Suffixe DNS propre à la connexion. . . :
+   Adresse IPv6 de liaison locale. . . . .: fe80::70de:8f61:ddbb:d1fc%9
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.137.20
+   Masque de sous-réseau. . . . . . . . . : 255.255.255.0
+   Passerelle par défaut. . . . . . . . . : 192.168.137.1
+
+Carte réseau sans fil Connexion au réseau local* 3 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Connexion au réseau local* 11 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Wi-Fi :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . : auvence.co
+
+Carte Ethernet Connexion réseau Bluetooth :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjg3NDE2OCwxMDI0NTQyLDE5OTQ2MT
-QxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUs
-MTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbLTExOTA4NjMxODgsMTAyNDU0MiwxOTk0Nj
+E0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1
+LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
