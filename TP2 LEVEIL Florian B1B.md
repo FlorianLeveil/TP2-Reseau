@@ -1,6 +1,6 @@
 # TP2 LEVEIL Florian B1B
 
-## 1 Exploration locale en solo
+## I. Exploration locale en solo
 
 ### 1.1 Affichage d'informations sur la pile TCP/IP locale
 
@@ -59,8 +59,13 @@ Calculez la première et la dernière IP du réseau:
 * Modifier l'IP: ça ne marche pas ! (Mais normalement soit doit marcher)
 * Modifier la passerrelle: ça ne marche pas !
 
+## II. Exploration Locale en duo
+### Création d'un reseau
+
+<
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMT
-ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
-MzldfQ==
+eyJoaXN0b3J5IjpbODM0NjM0MzkwLDE5OTQ2MTQxNDMsLTY5ND
+c4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1
+LC0xOTM2OTIzOTM5XX0=
 -->
