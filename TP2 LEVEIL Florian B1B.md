@@ -60,12 +60,14 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 ## II. Exploration Locale en duo
-### Création d'un reseau
+### Création d'un réseau / modification d'adresse IP
 
-<
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NjM0MzkwLDE5OTQ2MTQxNDMsLTY5ND
-c4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1
-LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbLTIwNjk5NDU0NjQsMTk5NDYxNDE0MywtNj
+k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
+NjUsLTE5MzY5MjM5MzldfQ==
 -->
