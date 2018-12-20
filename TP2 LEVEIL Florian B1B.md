@@ -62,12 +62,13 @@ Calculez la première et la dernière IP du réseau:
 ## II. Exploration Locale en duo
 ### Création d'un réseau / modification d'adresse IP
 
-
+* Réseau /24:
+<img sr
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk5NDU0NjQsMTk5NDYxNDE0MywtNj
-k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
-NjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbLTIyODMwMzg0OCwxOTk0NjE0MTQzLC02OT
+Q3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2
+NSwtMTkzNjkyMzkzOV19
 -->
