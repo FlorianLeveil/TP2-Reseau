@@ -166,9 +166,11 @@ ParsedHtml        : mshtml.HTMLDocumentClass
 RawContentLength  : 45839 
 ```
 Quand mon collègue ce connecte à internet via mon pc:
+* J'ai une version Insider de Windows je n'ai pas l'option "Ethernet"
 
+<img src="./
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxND
-E0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwx
-ODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbLTg5MzgwNTAxMSw4NzUwMjgxODQsMTAyND
+U0MiwxOTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwx
+MTM5NDQwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
