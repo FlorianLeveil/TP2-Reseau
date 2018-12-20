@@ -47,6 +47,8 @@ Calcule:
 
 **A. Modification d'adresse IP**
 
+<img src="./TP2%20Screen/ipconfig%20-%2004.PNG">
+
 Calculez la première et la dernière IP du réseau:
 * Première 10.33.0.0
 * Dernière 10.33.3.256
@@ -56,7 +58,7 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ3NzY3NTMsLTY5NDc4Nzc1OSwxMz
-ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
-OTM5XX0=
+eyJoaXN0b3J5IjpbMjA0MTQ3ODIzMywtNjk0Nzg3NzU5LDEzMT
+ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
+MzldfQ==
 -->
