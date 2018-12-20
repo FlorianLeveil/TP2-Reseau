@@ -6,7 +6,7 @@
 
 #### En CMD:
 
-<img src="./Tp2 Screen/Ipconfig
+<img src="./Tp2 Screen/Ipconfig - 01.PNG>
 
 **Nom, adresse MAC, adresse IP pour WIFI:**
 * Carte réseau sans fil Wi-Fi
@@ -53,5 +53,5 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzg4NDgxNiwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
