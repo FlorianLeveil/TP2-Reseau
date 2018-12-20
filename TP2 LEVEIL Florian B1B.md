@@ -54,13 +54,13 @@ Calculez la première et la dernière IP du réseau:
 * Dernière 10.33.3.256
 
 **B. nmap**
-<img src="./TP2%20Screen/IPconfig%20Graph%20-03.PNG">
-<img src="./TP2%20Screen/IPconfig%20Graph%20-03.PNG">
+<img src="./TP2%20Screen/Nmap%20-%2005.PNG">
+<img src="./TP2%20Screen/Passerelle%20-%2007.PNG">
 * Modifier l'IP: ça ne marche pas ! (Mais normalement soit doit marcher)
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzYyNzY0MSwtNjk0Nzg3NzU5LDEzMT
+eyJoaXN0b3J5IjpbMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMT
 ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
 MzldfQ==
 -->
