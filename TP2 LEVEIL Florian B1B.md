@@ -37,7 +37,7 @@ Calcule:
 
 #### En Graphique:
 
-<img src="./TP2%20Screen/TP2%20Screen/IPconfig%20Graph%20-03.PNG">
+<img src="./TP2%20Screen/IPconfig%20Graph%20-03.PNG">
 
 
 à quoi sert la gateway dans le réseau d'ingésup:
@@ -56,6 +56,7 @@ Calculez la première et la dernière IP du réseau:
 * Modifier la passerrelle: ça ne marche pas !
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMz
-k0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbLTExNjQ3NzY3NTMsLTY5NDc4Nzc1OSwxMz
+ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
+OTM5XX0=
 -->
