@@ -71,11 +71,14 @@ Calculez la première et la dernière IP du réseau:
 <img src="./TP2%20Screen/capture10.PNG">
 <img src="./TP2%20Screen/capture11.PNG">
 
+### Utilisation d'un des deux comme gateway
+
+* Mon pc 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE2NjM3NTAsMTAyNDU0MiwxOTk0Nj
-E0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1
-LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTkxNjg3NDE2OCwxMDI0NTQyLDE5OTQ2MT
+QxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUs
+MTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
