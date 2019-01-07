@@ -232,7 +232,44 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
  *   Nouvelle adresse IP (en ligne de commande):
  1.  ipconfig /flushdns:
 2.  ipconfig /release:
-3.  ipconfig /renew:
+```
+PS C:\Users\Florian> ipconfig /release
+
+Configuration IP de Windows
+
+Aucune opération ne peut être effectuée sur Connexion au réseau local* 3 lorsque
+son média est déconnecté.
+Aucune opération ne peut être effectuée sur Connexion au réseau local* 11 lorsque
+son média est déconnecté.
+Aucune opération ne peut être effectuée sur Connexion réseau Bluetooth lorsque
+son média est déconnecté.
+
+Carte Ethernet Ethernet :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Connexion au réseau local* 3 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Connexion au réseau local* 11 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Wi-Fi :
+
+   Suffixe DNS propre à la connexion. . . :
+   Adresse IPv6 de liaison locale. . . . .: fe80::5c55:b0b4:ada6:95d9%20
+   Passerelle par défaut. . . . . . . . . :
+
+Carte Ethernet Connexion réseau Bluetooth :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+4.  ipconfig /renew:
 ```
 PS C:\Users\Florian> ipconfig /renew
 
@@ -294,9 +331,9 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTU2MjEzLC04ODQwNzU1NTAsLTE4OD
-E3NjE0MTIsLTEyOTA5NTY5NDAsLTM0OTI0MjYzMSwxMTcwMDA2
-ODQ4LC0xNzg3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQyLDE5OT
-Q2MTQxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0
-NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbLTEzNTY5MjgwODEsLTg4NDA3NTU1MCwtMT
+g4MTc2MTQxMiwtMTI5MDk1Njk0MCwtMzQ5MjQyNjMxLDExNzAw
+MDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIsMT
+k5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0
+MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
 -->
