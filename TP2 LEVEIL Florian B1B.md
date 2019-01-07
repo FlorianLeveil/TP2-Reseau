@@ -248,21 +248,21 @@ Carte Ethernet Ethernet :
    Statut du média. . . . . . . . . . . . : Média déconnecté
    Suffixe DNS propre à la connexion. . . :
 
-Carte réseau sans fil Connexion au réseau local* 3 :
+Carte réseau sans fil Connexion au réseau local* 3 :
 
    Statut du média. . . . . . . . . . . . : Média déconnecté
    Suffixe DNS propre à la connexion. . . :
 
-Carte réseau sans fil Connexion au réseau local* 11 :
+Carte réseau sans fil Connexion au réseau local* 11 :
 
    Statut du média. . . . . . . . . . . . : Média déconnecté
    Suffixe DNS propre à la connexion. . . :
 
-Carte réseau sans fil Wi-Fi :
+Carte réseau sans fil Wi-Fi :
 
    Suffixe DNS propre à la connexion. . . :
    Adresse IPv6 de liaison locale. . . . .: fe80::5c55:b0b4:ada6:95d9%20
-   Passerelle par défaut. . . . . . . . . :
+   Passerelle par défaut. . . . . . . . . :
 
 Carte Ethernet Connexion réseau Bluetooth :
 
@@ -352,6 +352,8 @@ Carte Ethernet Connexion réseau Bluetooth :
    Suffixe DNS propre à la connexion. . . :
    ```
 ### 2. DNS
+#### IP du serveur DNS
+
 #### nslookup:
 #### lookup:
 * Pour  `google.com`
@@ -370,9 +372,10 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTYxNjg0NSwtODg0MDc1NTUwLC0xOD
-gxNzYxNDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAw
-Njg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOT
-k0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQw
-NDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbNDQ5MjYzNzAyLC05OTU2MTY4NDUsLTg4ND
+A3NTU1MCwtMTg4MTc2MTQxMiwtMTI5MDk1Njk0MCwtMzQ5MjQy
+NjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LD
+EwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4
+NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ
+==
 -->
