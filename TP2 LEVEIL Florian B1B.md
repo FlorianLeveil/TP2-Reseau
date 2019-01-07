@@ -174,10 +174,13 @@ Quand mon collègue ce connecte à internet via mon pc:
 Une fois sur le même réseau et avec le même port ça donne ça:
 <img src="./TP2%20Screen/Capture13.PNG">
 
+### Wirechark
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDYzMzczNSwtMTc4NzY2OTM4MSw4Nz
+eyJoaXN0b3J5IjpbMTE3MDAwNjg0OCwtMTc4NzY2OTM4MSw4Nz
 UwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3ODc3NTks
 MTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwtMTkzNj
 kyMzkzOV19
