@@ -370,7 +370,15 @@ Addresses:  2a00:1450:4007:805::200e
 ```
 * Pour  `ynov.com`
 ```
+> lookup ynov.com
+Serveur :   ynov.com
+Address:  217.70.184.38
 
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+```
 * Résultats de ces commandes
 #### reverse lookup_ :
 * pour l'adresse  `78.78.21.21`
@@ -385,7 +393,7 @@ Addresses:  2a00:1450:4007:805::200e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQyODYwNjQsNDQ5MjYzNzAyLC05OT
+eyJoaXN0b3J5IjpbLTE5OTM4MjI2OTcsNDQ5MjYzNzAyLC05OT
 U2MTY4NDUsLTg4NDA3NTU1MCwtMTg4MTc2MTQxMiwtMTI5MDk1
 Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzOD
 EsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3
