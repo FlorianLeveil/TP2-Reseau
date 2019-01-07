@@ -362,7 +362,15 @@ Serveur :   UnKnown
 Address:  10.33.10.20
 ```
 * Pour  `google.com`
+```
+> lookup google.com
+Serveur :   google.com
+Addresses:  2a00:1450:4007:805::200e
+          216.58.208.238
+```
 * Pour  `ynov.com`
+```
+
 * Résultats de ces commandes
 #### reverse lookup_ :
 * pour l'adresse  `78.78.21.21`
@@ -377,10 +385,10 @@ Address:  10.33.10.20
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjUyMDAyMSw0NDkyNjM3MDIsLTk5NT
-YxNjg0NSwtODg0MDc1NTUwLC0xODgxNzYxNDEyLC0xMjkwOTU2
-OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OCwtMTc4NzY2OTM4MS
-w4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3ODc3
-NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwtMT
-kzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTE2MjQyODYwNjQsNDQ5MjYzNzAyLC05OT
+U2MTY4NDUsLTg4NDA3NTU1MCwtMTg4MTc2MTQxMiwtMTI5MDk1
+Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzOD
+EsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3
+NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLT
+E5MzY5MjM5MzldfQ==
 -->
