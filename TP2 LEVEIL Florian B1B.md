@@ -230,6 +230,10 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
    L’adresse du serveur DHCP est: ```10.33.3.254 ```
  *  Date d'expiration du bail DHCP: ```lundi 7 janvier 2019 16:36:58 ```
  *   Nouvelle adresse IP (en ligne de commande):
+ 1.  ipconfig /flushdns:
+2.  ipconfig /release:
+3.  ipconfig /renew:
+4. 
 ### 2. DNS
 #### nslookup:
 #### lookup:
@@ -249,9 +253,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDA3NTU1MCwtMTg4MTc2MTQxMiwtMT
-I5MDk1Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2
-NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNj
-k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
-NjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbMTQyNjI4MzgyMywtODg0MDc1NTUwLC0xOD
+gxNzYxNDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAw
+Njg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOT
+k0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQw
+NDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
