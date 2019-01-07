@@ -202,7 +202,9 @@ Gestion protocole:
 
 Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
-### III. Manipulations d'autres outils/protocoles côté client
+## III. Manipulations d'autres outils/protocoles côté client
+### 1. DHCP
+
 
 
 
@@ -214,8 +216,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzY2NDEyMCwtMzQ5MjQyNjMxLDExNz
-AwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIs
-MTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOT
-Q0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbLTEyOTA5NTY5NDAsLTM0OTI0MjYzMSwxMT
+cwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQy
+LDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMz
+k0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
