@@ -188,6 +188,21 @@ Trier les trames avec "tcp.stream eq 0":
 <img src="./TP2%20Screen/capture16.PNG">
 
 ### Firewall
+Gestion des règles:
+
+<img src="./TP2%20Screen/capture17.PNG">
+
+Gestion IP:
+
+<img src="./TP2%20Screen/capture18.PNG">
+
+Gestion protocole:
+
+<img src="./TP2%20Screen/capture19.PNG">
+
+Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
+
+
 
 
 
@@ -196,8 +211,8 @@ Trier les trames avec "tcp.stream eq 0":
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTI0MjYzMSwxMTcwMDA2ODQ4LC0xNz
-g3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMs
-LTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MD
-gzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbODYzNjY4MzExLC0zNDkyNDI2MzEsMTE3MD
+AwNjg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0Miwx
+OTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5ND
+QwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
