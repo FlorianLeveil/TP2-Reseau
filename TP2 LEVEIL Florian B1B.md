@@ -227,8 +227,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
                                        8.8.8.8
    NetBIOS sur Tcpip. . . . . . . . . . . : Activé 
    ```
-   L’adresse du serveur d 
- *  Date d'expiration du bail DHCP:
+   L’adresse du serveur DHCP est: 10.33.3.254 
+ *  Date d'expiration du bail DHCP: 
  *   Nouvelle adresse IP (en ligne de commande):
 ### 2. DNS
 #### nslookup:
@@ -249,7 +249,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MTI2NTYzLC0xODgxNzYxNDEyLC0xMj
+eyJoaXN0b3J5IjpbNTIyMTI5NTY1LC0xODgxNzYxNDEyLC0xMj
 kwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OCwtMTc4NzY2
 OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OT
 Q3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2
