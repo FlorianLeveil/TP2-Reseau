@@ -204,7 +204,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 ## III. Manipulations d'autres outils/protocoles côté client
 ### 1. DHCP
-
+### 2. DNS
 
 
 
@@ -216,8 +216,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA5NTY5NDAsLTM0OTI0MjYzMSwxMT
-cwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQy
-LDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMz
-k0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
+eyJoaXN0b3J5IjpbLTIxMDMyMTcxMzQsLTEyOTA5NTY5NDAsLT
+M0OTI0MjYzMSwxMTcwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAy
+ODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMz
+ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
+OTM5XX0=
 -->
