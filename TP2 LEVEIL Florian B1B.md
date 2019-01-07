@@ -352,23 +352,24 @@ Carte Ethernet Connexion réseau Bluetooth :
    Suffixe DNS propre à la connexion. . . :
    ```
 ### 2. DNS
-#### IP du serveur DNS
+#### IP du serveur DNS:
+
 
 #### nslookup:
-#### lookup:
 ```
 > nslookup
 Serveur :   UnKnown
 Address:  10.33.10.20
 ```
-* Pour  `google.com`
+#### lookup:
+* Pour  `google.com`:
 ```
 > lookup google.com
 Serveur :   google.com
 Addresses:  2a00:1450:4007:805::200e
           216.58.208.238
 ```
-* Pour  `ynov.com`
+* Pour  `ynov.com`:
 ```
 > lookup ynov.com
 Serveur :   ynov.com
@@ -379,7 +380,8 @@ DNS request timed out.
 DNS request timed out.
     timeout was 2 seconds.
 ```
-* Résultats de ces commandes
+* Résultats de ces commandes:
+ça affiche l'adresse du nom de domaine.
 #### reverse lookup_ :
 * pour l'adresse  `78.78.21.21`
 * pour l'adresse  `92.16.54.88`
@@ -393,10 +395,10 @@ DNS request timed out.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM4MjI2OTcsNDQ5MjYzNzAyLC05OT
-U2MTY4NDUsLTg4NDA3NTU1MCwtMTg4MTc2MTQxMiwtMTI5MDk1
-Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzOD
-EsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3
-NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLT
-E5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbMTExMDk3MzQ0MCwtMTk5MzgyMjY5Nyw0ND
+kyNjM3MDIsLTk5NTYxNjg0NSwtODg0MDc1NTUwLC0xODgxNzYx
+NDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OC
+wtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0
+MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LD
+E4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
