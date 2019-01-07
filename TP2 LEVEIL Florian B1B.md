@@ -202,6 +202,9 @@ Gestion protocole:
 
 Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
+### III. Manipulations d'autres outils/protocoles côté client
+
+
 
 
 
@@ -211,8 +214,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjY4MzExLC0zNDkyNDI2MzEsMTE3MD
-AwNjg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0Miwx
-OTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5ND
-QwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTUyMzY2NDEyMCwtMzQ5MjQyNjMxLDExNz
+AwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIs
+MTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOT
+Q0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
 -->
