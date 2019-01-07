@@ -356,6 +356,11 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 #### nslookup:
 #### lookup:
+```
+> nslookup
+Serveur :   UnKnown
+Address:  10.33.10.20
+```
 * Pour  `google.com`
 * Pour  `ynov.com`
 * Résultats de ces commandes
@@ -372,10 +377,10 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MjYzNzAyLC05OTU2MTY4NDUsLTg4ND
-A3NTU1MCwtMTg4MTc2MTQxMiwtMTI5MDk1Njk0MCwtMzQ5MjQy
-NjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LD
-EwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4
-NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ
-==
+eyJoaXN0b3J5IjpbLTg4MjUyMDAyMSw0NDkyNjM3MDIsLTk5NT
+YxNjg0NSwtODg0MDc1NTUwLC0xODgxNzYxNDEyLC0xMjkwOTU2
+OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OCwtMTc4NzY2OTM4MS
+w4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3ODc3
+NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwtMT
+kzNjkyMzkzOV19
 -->
