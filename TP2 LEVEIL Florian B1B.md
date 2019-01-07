@@ -172,13 +172,13 @@ Quand mon collègue ce connecte à internet via mon pc:
 
 ### Chat privé
 Une fois sur le même réseau et avec le même port ça donne ça:
-<img src="./TP2%20Screen/capture13.PNG">
+<img src="./TP2%20Screen/Capture13.PNG">
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MjQzMTc1LC0xNzg3NjY5MzgxLDg3NT
-AyODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwx
-MzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OT
-IzOTM5XX0=
+eyJoaXN0b3J5IjpbMjEzMDYzMzczNSwtMTc4NzY2OTM4MSw4Nz
+UwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3ODc3NTks
+MTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwtMTkzNj
+kyMzkzOV19
 -->
