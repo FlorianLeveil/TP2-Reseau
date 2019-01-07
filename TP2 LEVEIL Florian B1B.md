@@ -407,7 +407,8 @@ Nom :    host-92-16-54-88.as13285.net
 Address:  92.16.54.88
 ```
 
-* Résultats
+* Résultats:
+
 ça affiche le nom du serveur, l'adresse, le nom de l'host et l'adresse de l'host.
 
 
@@ -418,7 +419,7 @@ Address:  92.16.54.88
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTAwMDMwOCwtMTk2ODczNDUyLC0xOT
+eyJoaXN0b3J5IjpbLTUxODgwNzI2MCwtMTk2ODczNDUyLC0xOT
 kzODIyNjk3LDQ0OTI2MzcwMiwtOTk1NjE2ODQ1LC04ODQwNzU1
 NTAsLTE4ODE3NjE0MTIsLTEyOTA5NTY5NDAsLTM0OTI0MjYzMS
 wxMTcwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAyODE4NCwxMDI0
