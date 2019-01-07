@@ -212,10 +212,10 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 #### lookup:
 * Pour  `google.com`
 * Pour  `ynov.com`
-        -   interpréter les résultats de ces commandes
-    -   faites un  _reverse lookup_  (= "dis moi si tu connais un nom de domaine pour telle IP")
-        -   pour l'adresse  `78.78.21.21`
-        -   pour l'adresse  `92.16.54.88`
+* Résultats de ces commandes
+#### reverse lookup_ :
+* pour l'adresse  `78.78.21.21`
+* pour l'adresse  `92.16.54.88`
         -   interpréter les résultats
         -   _si vous vous demandez, j'ai pris des adresses random :)_
 
@@ -228,7 +228,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODE3NzI4MiwtMTI5MDk1Njk0MCwtMz
+eyJoaXN0b3J5IjpbLTgyNjY5MTYyNywtMTI5MDk1Njk0MCwtMz
 Q5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4
 MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMT
 ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
