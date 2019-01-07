@@ -205,7 +205,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 ## III. Manipulations d'autres outils/protocoles côté client
 ### 1. DHCP
  * Adresse IP du serveur DHCP du réseau WiFi:
- ''' Carte réseau sans fil Wi-Fi :
+ ```
+  Carte réseau sans fil Wi-Fi :
 
    Suffixe DNS propre à la connexion. . . : auvence.co
    Description. . . . . . . . . . . . . . : Killer Wireless-n/a/ac 1535 Wireless Network Adapter
@@ -225,6 +226,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
                                        10.33.10.7
                                        8.8.8.8
    NetBIOS sur Tcpip. . . . . . . . . . . : Activé 
+   ```
+   L’adresse du serveur d 
  *  Date d'expiration du bail DHCP:
  *   Nouvelle adresse IP (en ligne de commande):
 ### 2. DNS
@@ -246,9 +249,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTgzMTI4OSwtMTg4MTc2MTQxMiwtMT
-I5MDk1Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2
-NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNj
-k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
-NjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbMzM0MTI2NTYzLC0xODgxNzYxNDEyLC0xMj
+kwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OCwtMTc4NzY2
+OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OT
+Q3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2
+NSwtMTkzNjkyMzkzOV19
 -->
