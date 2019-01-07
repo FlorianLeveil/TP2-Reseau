@@ -353,7 +353,12 @@ Carte Ethernet Connexion réseau Bluetooth :
    ```
 ### 2. DNS
 #### IP du serveur DNS:
-
+Faire un ipconfig /all
+```
+ Serveurs DNS. . .  . . . . . . . . . . : 10.33.10.20
+                                       10.33.10.7
+                                       8.8.8.8
+```
 
 #### nslookup:
 ```
@@ -395,7 +400,7 @@ DNS request timed out.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDk3MzQ0MCwtMTk5MzgyMjY5Nyw0ND
+eyJoaXN0b3J5IjpbLTE5Njg3MzQ1MiwtMTk5MzgyMjY5Nyw0ND
 kyNjM3MDIsLTk5NTYxNjg0NSwtODg0MDc1NTUwLC0xODgxNzYx
 NDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OC
 wtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0
