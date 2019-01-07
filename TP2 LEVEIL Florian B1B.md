@@ -205,10 +205,8 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 ## III. Manipulations d'autres outils/protocoles côté client
 ### 1. DHCP
  * Adresse IP du serveur DHCP du réseau WiFi:
-
- * cette adresse a une durée de vie limitée. C'est le principe du  _**bail DHCP**_  (ou  _DHCP lease_). Trouver la date d'expiration de votre bail DHCP
--   renseignez-vous un peu sur le fonctionnement de DHCP dans les grandes lignes. On aura un cours là dessus :)
--   demandez une nouvelle adresse IP (en ligne de commande)
+ *  Date d'expiration du bail DHCP:
+ *   Nouvelle adresse IP (en ligne de commande):
 ### 2. DNS
 
 
@@ -221,7 +219,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzQ4NTk4MiwtMTI5MDk1Njk0MCwtMz
+eyJoaXN0b3J5IjpbMTE2NjM5NTY4MywtMTI5MDk1Njk0MCwtMz
 Q5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4
 MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMT
 ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
