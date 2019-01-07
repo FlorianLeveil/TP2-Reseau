@@ -205,6 +205,26 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 ## III. Manipulations d'autres outils/protocoles côté client
 ### 1. DHCP
  * Adresse IP du serveur DHCP du réseau WiFi:
+ ''' Carte réseau sans fil Wi-Fi :
+
+   Suffixe DNS propre à la connexion. . . : auvence.co
+   Description. . . . . . . . . . . . . . : Killer Wireless-n/a/ac 1535 Wireless Network Adapter
+   Adresse physique . . . . . . . . . . . : 9C-B6-D0-09-AB-45
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+   Adresse IPv6 de liaison locale. . . . .: fe80::5c55:b0b4:ada6:95d9%20(préféré)
+   Adresse IPv4. . . . . . . . . . . . . .: 10.33.2.111(préféré)
+   Masque de sous-réseau. . . . . . . . . : 255.255.252.0
+   Bail obtenu. . . . . . . . . . . . . . : lundi 7 janvier 2019 13:36:57
+   Bail expirant. . . . . . . . . . . . . : lundi 7 janvier 2019 16:36:58
+   Passerelle par défaut. . . . . . . . . : 10.33.3.253
+   Serveur DHCP . . . . . . . . . . . . . : 10.33.3.254
+   IAID DHCPv6 . . . . . . . . . . . : 329037520
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-22-FE-5E-05-D8-CB-8A-F3-F1-D5
+   Serveurs DNS. . .  . . . . . . . . . . : 10.33.10.20
+                                       10.33.10.7
+                                       8.8.8.8
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé 
  *  Date d'expiration du bail DHCP:
  *   Nouvelle adresse IP (en ligne de commande):
 ### 2. DNS
@@ -226,9 +246,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE3NjE0MTIsLTEyOTA5NTY5NDAsLT
-M0OTI0MjYzMSwxMTcwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAy
-ODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMz
-ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
-OTM5XX0=
+eyJoaXN0b3J5IjpbLTIzOTgzMTI4OSwtMTg4MTc2MTQxMiwtMT
+I5MDk1Njk0MCwtMzQ5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2
+NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNj
+k0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMy
+NjUsLTE5MzY5MjM5MzldfQ==
 -->
