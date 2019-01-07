@@ -231,6 +231,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
  *  Date d'expiration du bail DHCP: ```lundi 7 janvier 2019 16:36:58 ```
  *   Nouvelle adresse IP (en ligne de commande):
  1.  ipconfig /flushdns:
+ ```
+ 
+ ```
 2.  ipconfig /release:
 ```
 PS C:\Users\Florian> ipconfig /release
@@ -269,7 +272,8 @@ Carte Ethernet Connexion réseau Bluetooth :
 
    Statut du média. . . . . . . . . . . . : Média déconnecté
    Suffixe DNS propre à la connexion. . . :
-4.  ipconfig /renew:
+   ```
+3.  ipconfig /renew:
 ```
 PS C:\Users\Florian> ipconfig /renew
 
@@ -331,7 +335,7 @@ Carte Ethernet Connexion réseau Bluetooth :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY5MjgwODEsLTg4NDA3NTU1MCwtMT
+eyJoaXN0b3J5IjpbLTIwNTEzNDM3MTAsLTg4NDA3NTU1MCwtMT
 g4MTc2MTQxMiwtMTI5MDk1Njk0MCwtMzQ5MjQyNjMxLDExNzAw
 MDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMjQ1NDIsMT
 k5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMTEzOTQ0
