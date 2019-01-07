@@ -216,9 +216,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 #### reverse lookup_ :
 * pour l'adresse  `78.78.21.21`
 * pour l'adresse  `92.16.54.88`
-        -   interpréter les résultats
-        -   _si vous vous demandez, j'ai pris des adresses random :)_
-
+* Résultats
 
 
 
@@ -228,9 +226,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjY5MTYyNywtMTI5MDk1Njk0MCwtMz
-Q5MjQyNjMxLDExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4
-MTg0LDEwMjQ1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMT
-ExMDU4NjAsMTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5
-MzldfQ==
+eyJoaXN0b3J5IjpbLTE4ODE3NjE0MTIsLTEyOTA5NTY5NDAsLT
+M0OTI0MjYzMSwxMTcwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAy
+ODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMz
+ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
+OTM5XX0=
 -->
