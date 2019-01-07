@@ -175,13 +175,23 @@ Une fois sur le même réseau et avec le même port ça donne ça:
 <img src="./TP2%20Screen/Capture13.PNG">
 
 ### Wirechark
+Pendant un ping et un message:
+
+<img src="./TP2%20Screen/capture14.PNG">
+
+Voici les trames concernant les messages en question:
+
+<img src="./TP2%20Screen/capture15.PNG">
+
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDAwNjg0OCwtMTc4NzY2OTM4MSw4Nz
-UwMjgxODQsMTAyNDU0MiwxOTk0NjE0MTQzLC02OTQ3ODc3NTks
-MTMxMTEwNTg2MCwxMTM5NDQwNDU1LDE4NTA4MzI2NSwtMTkzNj
-kyMzkzOV19
+eyJoaXN0b3J5IjpbMTMwODc4NjY3MSwxMTcwMDA2ODQ4LC0xNz
+g3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMs
+LTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MD
+gzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
