@@ -183,6 +183,9 @@ Voici les trames concernant les messages en question:
 
 <img src="./TP2%20Screen/capture15.PNG">
 
+Trier les trames avec "tcp.stream eq 0":
+
+<img src="./TP2%20Screen/capture16.PNG">
 
 
 
@@ -190,7 +193,7 @@ Voici les trames concernant les messages en question:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODc4NjY3MSwxMTcwMDA2ODQ4LC0xNz
+eyJoaXN0b3J5IjpbMjAxODAxNDQ0NCwxMTcwMDA2ODQ4LC0xNz
 g3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMs
 LTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0NTUsMTg1MD
 gzMjY1LC0xOTM2OTIzOTM5XX0=
