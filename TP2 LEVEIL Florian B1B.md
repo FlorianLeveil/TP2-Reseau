@@ -233,7 +233,48 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
  1.  ipconfig /flushdns:
 2.  ipconfig /release:
 3.  ipconfig /renew:
-4. 
+```
+PS C:\Users\Florian> ipconfig /renew
+
+Configuration IP de Windows
+
+Aucune opération ne peut être effectuée sur Ethernet lorsque
+son média est déconnecté.
+Aucune opération ne peut être effectuée sur Connexion au réseau local* 3 lorsque
+son média est déconnecté.
+Aucune opération ne peut être effectuée sur Connexion au réseau local* 11 lorsque
+son média est déconnecté.
+Aucune opération ne peut être effectuée sur Connexion réseau Bluetooth lorsque
+son média est déconnecté.
+
+Carte Ethernet Ethernet :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Connexion au réseau local* 3 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Connexion au réseau local* 11 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+
+Carte réseau sans fil Wi-Fi :
+
+   Suffixe DNS propre à la connexion. . . : auvence.co
+   Adresse IPv6 de liaison locale. . . . .: fe80::5c55:b0b4:ada6:95d9%20
+   Adresse IPv4. . . . . . . . . . . . . .: 10.33.2.111
+   Masque de sous-réseau. . . . . . . . . : 255.255.252.0
+   Passerelle par défaut. . . . . . . . . : 10.33.3.253
+
+Carte Ethernet Connexion réseau Bluetooth :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . :
+   ```
 ### 2. DNS
 #### nslookup:
 #### lookup:
@@ -253,9 +294,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjI4MzgyMywtODg0MDc1NTUwLC0xOD
-gxNzYxNDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAw
-Njg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOT
-k0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQw
-NDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbMjAwNTU2MjEzLC04ODQwNzU1NTAsLTE4OD
+E3NjE0MTIsLTEyOTA5NTY5NDAsLTM0OTI0MjYzMSwxMTcwMDA2
+ODQ4LC0xNzg3NjY5MzgxLDg3NTAyODE4NCwxMDI0NTQyLDE5OT
+Q2MTQxNDMsLTY5NDc4Nzc1OSwxMzExMTA1ODYwLDExMzk0NDA0
+NTUsMTg1MDgzMjY1LC0xOTM2OTIzOTM5XX0=
 -->
