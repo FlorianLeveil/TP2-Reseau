@@ -388,8 +388,19 @@ DNS request timed out.
 * Résultats de ces commandes:
 ça affiche l'adresse du nom de domaine.
 #### reverse lookup_ :
-* pour l'adresse  `78.78.21.21`
+* pour l'adresse  `78.78.21.21`:
+```
+PS C:\Users\Florian> nslookup 78.78.21.21
+Serveur :   UnKnown
+Address:  10.33.10.20
+
+Nom :    host-78-78-21-21.mobileonline.telia.com
+Address:  78.78.21.21
+```
 * pour l'adresse  `92.16.54.88`
+```
+
+```
 * Résultats
 
 
@@ -400,10 +411,10 @@ DNS request timed out.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3MzQ1MiwtMTk5MzgyMjY5Nyw0ND
-kyNjM3MDIsLTk5NTYxNjg0NSwtODg0MDc1NTUwLC0xODgxNzYx
-NDEyLC0xMjkwOTU2OTQwLC0zNDkyNDI2MzEsMTE3MDAwNjg0OC
-wtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0MiwxOTk0NjE0
-MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5NDQwNDU1LD
-E4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbNDYzODY2MDA3LC0xOTY4NzM0NTIsLTE5OT
+M4MjI2OTcsNDQ5MjYzNzAyLC05OTU2MTY4NDUsLTg4NDA3NTU1
+MCwtMTg4MTc2MTQxMiwtMTI5MDk1Njk0MCwtMzQ5MjQyNjMxLD
+ExNzAwMDY4NDgsLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMjQ1
+NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAsMT
+EzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
 -->
